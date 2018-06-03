@@ -1,2 +1,2 @@
 # fidenzAssignmentJavaScript
-Aigo
+Algorithms
